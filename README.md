@@ -1,7 +1,7 @@
 
   # AI-Powered Spending Snapshot
 
-  This is a code bundle for AI-Powered Spending Snapshot. The prototype is available at:  
+  This is a code bundle for AI-Powered Spending Snapshot Product Prototype. 
 
   ## Running the code
 
